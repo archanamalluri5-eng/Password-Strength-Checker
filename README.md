@@ -18,3 +18,4 @@ The program classifies passwords as:
 - Medium
 - Strong
 - Very Strong
+  
